@@ -10,7 +10,7 @@
 ------------------------
 
 ## Projetos:
-
-  Artigo:<a href= "https://www.linkedin.com/pulse/airbnb-em-boston-acomoda%25C3%25A7%25C3%25B5es-ber%25C3%25A7o-da-independ%25C3%25AAncia-amanda"><i> Airbnb em Boston:Acomodações no berço da independência americana<i></a>
   
 Notebook: <a href = "https://github.com/AmandaAntonio/Analise_de_dados_Airbnb_Boston/blob/main/Analisando_os_Dados_do_Airbnb_%7C_Boston.ipynb"><i> Airbnb em Boston: Acomodações no berço da independência americana<i> 
+
+Notebook: <a href = "https://github.com/AmandaAntonio/Panorama_das_Barragens_de_Minerio/blob/main/README.md"><i> Barragens de Rejeitos de Minério no Brasil <i> 
