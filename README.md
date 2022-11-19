@@ -13,6 +13,6 @@
   
  <a href = "https://github.com/AmandaAntonio/RealEstate"><i> Recomendação de Compra e Venda de imóveis - Real Estate <i>
   
-<a href = "https://github.com/AmandaAntonio/Analise_de_dados_Airbnb_Boston/blob/main/Analisando_os_Dados_do_Airbnb_%7C_Boston.ipynb"><i> Airbnb em Boston: Acomodações no berço da independência americana<i> 
+<a href = "https://github.com/AmandaAntonio/Analise_de_dados_Airbnb_Boston"><i> Airbnb em Boston: Acomodações no berço da independência americana<i> 
 
 <a href = "https://github.com/AmandaAntonio/Panorama_das_Barragens_de_Minerio/blob/main/README.md"><i> Barragens de Rejeitos de Minério no Brasil <i> 
