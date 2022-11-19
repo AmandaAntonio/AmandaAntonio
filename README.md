@@ -11,7 +11,7 @@
 
 ## Projetos:
   
- <a href = "https://github.com/AmandaAntonio/RealEstate"><i> Recomendação de Compra e Venda de imóveis - Real Estate <i>
+ <a href = "https://github.com/AmandaAntonio/RealEstate"><i> Recomendaçôes de Compras e Vendas de imóveis - Real Estate <i>
   
 <a href = "https://github.com/AmandaAntonio/Analise_de_dados_Airbnb_Boston"><i> Airbnb em Boston: Acomodações no berço da independência americana<i> 
 
