@@ -1,6 +1,6 @@
 
 Oi Tudo bem? Eu sou a <a href="https://www.linkedin.com/in/amandamagalhaesantonio//"><i>Amanda M. Antonio</i></a>👋</h1>
-Tenho 27 anos, atualmente estudo Engenharia de Dados! 
+Tenho 28 anos, atualmente estudo Engenharia de Dados! 
 
 Por aqui você vai ver algums projetos que realizo ao longo dos estudos sobre Python, SQL, Banco de Dados e etc... ! 
   
